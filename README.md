@@ -11,8 +11,8 @@
 ```
 
 ## References
-
-1. Allera et al., _submitted for publication_ (2021) : **hybridization** of the two following EAM potentials
-2. Proville et al., Nature materials, 11 (2012) : **Fe-Fe interaction**
-3. Veiga et al., M. Comput. Materials Science, 82 (2014) : **Fe-C interaction**
-
+|   Ref. |   |
+|:--------:|:-:|
+| Proville et al., Nature Materials, **11**, 845 (2012) | **Fe-Fe interaction**  |
+|   Veiga et al., Computational Materials Science, **82**, 118 (2014)   | **Fe-C interaction**  |
+|  Allera et al., _submitted for publication_ (2021)  | **hybridization** of the two previous potentials  |

@@ -1,6 +1,6 @@
-potential eam for iron-carbon for lammps from Becquart et al, Computational Materials Sciences 40 (2007) 119-129 
-modified by Veiga et al, Computational Materials Sciences (2013)
-modified by Allera (replaced the Fe-Fe part by the one from Proville et al. 2012) -- Version 2019_08_28
+LAMMPS EAM potential for screw dislocation-carbon interaction in dilute Fe-C
+from Becquart et al, Computational Materials Science 40 (2007) 119-129, modified by Veiga et al, Computational Materials Science (2013)
+modified in A. Allera, F. Ribeiro, M. Perez, and D. Rodney (2022), Physical Review Materials, 6(1), 013608. -- Version 2019_08_28
 2 Fe C 
 2400 0.05 2400 0.0025 5.3
 26 55.84500 2.855 bcc 
